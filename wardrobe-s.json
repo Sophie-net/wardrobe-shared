@@ -1,69 +1,35 @@
 {
-  "looks": [
-    {
-      "id": "s_l1",
-      "title": "初秋通勤叠穿",
-      "date": "2026-08-17",
-      "temp": 16,
-      "weather": "多云",
-      "occ": "通勤",
-      "season": "秋",
-      "colors": "米白,浅灰,卡其",
-      "note": "针织开衫+白衬衫，早晚不冷午不热",
-      "jewel": {
-        "type": "项链",
-        "material": "银",
-        "color": "银白",
-        "note": "细链配衬衫领口"
-      },
-      "imgs": [],
-      "created": 1755400000000
-    },
-    {
-      "id": "s_l2",
-      "title": "周末休闲卫衣",
-      "date": "2026-08-17",
-      "temp": 21,
-      "weather": "晴",
-      "occ": "休闲",
-      "season": "秋",
-      "colors": "藏蓝,白",
-      "note": "连帽卫衣配牛仔",
-      "jewel": null,
-      "imgs": [],
-      "created": 1755400000000
-    }
-  ],
+  "looks": [],
   "items": [
     {
-      "id": "s_it1",
+      "id": "it1786944420137",
       "kind": "cloth",
-      "name": "米白针织开衫",
-      "cat": "针织",
-      "color": "米白",
-      "mat": "羊毛混纺",
-      "season": "秋",
-      "wx": "金",
-      "tempLo": 12,
-      "tempHi": 20,
-      "note": "百搭内搭",
-      "img": null,
-      "created": 1755400000000
-    },
-    {
-      "id": "s_it2",
-      "kind": "jewel",
-      "name": "细银项链",
-      "cat": "项链",
-      "color": "银白",
-      "mat": "银",
+      "name": "粉色",
+      "cat": "上衣",
+      "color": "",
+      "mat": "",
       "season": "四季",
-      "wx": "金",
+      "wx": "",
       "tempLo": null,
       "tempHi": null,
-      "note": "配衬衫领口",
+      "note": "",
       "img": null,
-      "created": 1755400000000
+      "created": 1786944420137
+    },
+    {
+      "id": "it1786944434303",
+      "kind": "cloth",
+      "name": "黑色",
+      "cat": "裙装",
+      "color": "",
+      "mat": "",
+      "season": "四季",
+      "wx": "",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "",
+      "img": null,
+      "created": 1786944434303
     }
   ]
 }
