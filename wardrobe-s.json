@@ -30,6 +30,21 @@
       "note": "",
       "img": null,
       "created": 1786944434303
+    },
+    {
+      "id": "it1786946593712",
+      "kind": "cloth",
+      "name": "白色",
+      "cat": "外套",
+      "color": "",
+      "mat": "",
+      "season": "四季",
+      "wx": "",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "",
+      "img": null,
+      "created": 1786946593712
     }
   ]
 }
