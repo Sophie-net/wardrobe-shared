@@ -75,6 +75,21 @@
       "note": "",
       "img": null,
       "created": 1786947848696
+    },
+    {
+      "id": "it1786948723666",
+      "kind": "cloth",
+      "name": "绿色",
+      "cat": "连衣裙",
+      "color": "",
+      "mat": "",
+      "season": "四季",
+      "wx": "",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "",
+      "img": null,
+      "created": 1786948723666
     }
   ]
 }
