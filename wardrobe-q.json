@@ -1,0 +1,55 @@
+{
+  "looks": [
+    {
+      "id": "q_l1",
+      "title": "夏日透气穿搭",
+      "date": "2026-08-17",
+      "temp": 32,
+      "weather": "晴",
+      "occ": "休闲",
+      "season": "夏",
+      "colors": "浅绿,白",
+      "note": "亚麻短袖",
+      "jewel": {
+        "type": "耳饰",
+        "material": "珍珠",
+        "color": "米白",
+        "note": ""
+      },
+      "imgs": [],
+      "created": 1755400000000
+    }
+  ],
+  "items": [
+    {
+      "id": "q_it1",
+      "kind": "cloth",
+      "name": "藏蓝直筒牛仔裤",
+      "cat": "裤装",
+      "color": "藏蓝",
+      "mat": "棉",
+      "season": "四季",
+      "wx": "水",
+      "tempLo": 10,
+      "tempHi": 28,
+      "note": "显瘦百搭",
+      "img": null,
+      "created": 1755400000000
+    },
+    {
+      "id": "q_it2",
+      "kind": "jewel",
+      "name": "墨绿玉镯",
+      "cat": "手镯/手链",
+      "color": "墨绿",
+      "mat": "玉/翡翠",
+      "season": "四季",
+      "wx": "木",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "配旗袍或素色针织",
+      "img": null,
+      "created": 1755400000000
+    }
+  ]
+}

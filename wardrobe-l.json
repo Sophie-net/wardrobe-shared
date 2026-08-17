@@ -1,0 +1,55 @@
+{
+  "looks": [
+    {
+      "id": "l_l1",
+      "title": "冬日大衣造型",
+      "date": "2026-07-08",
+      "temp": -2,
+      "weather": "雪",
+      "occ": "正式",
+      "season": "冬",
+      "colors": "黑,驼色",
+      "note": "羊绒大衣+围巾",
+      "jewel": {
+        "type": "胸针",
+        "material": "合金",
+        "color": "金",
+        "note": ""
+      },
+      "imgs": [],
+      "created": 1755400000000
+    }
+  ],
+  "items": [
+    {
+      "id": "l_it1",
+      "kind": "cloth",
+      "name": "黑色羊毛大衣",
+      "cat": "大衣",
+      "color": "黑",
+      "mat": "羊毛",
+      "season": "冬",
+      "wx": "水",
+      "tempLo": -5,
+      "tempHi": 8,
+      "note": "保暖正式",
+      "img": null,
+      "created": 1755400000000
+    },
+    {
+      "id": "l_it2",
+      "kind": "jewel",
+      "name": "金色腕表",
+      "cat": "腕表",
+      "color": "金",
+      "mat": "合金",
+      "season": "四季",
+      "wx": "金",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "百搭",
+      "img": null,
+      "created": 1755400000000
+    }
+  ]
+}
