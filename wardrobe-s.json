@@ -137,6 +137,21 @@
       "note": "",
       "img": null,
       "created": 1786953130865
+    },
+    {
+      "id": "it1786955759541",
+      "kind": "jewel",
+      "name": "糖白手串",
+      "cat": "项链",
+      "color": "黄色",
+      "mat": "和田玉",
+      "season": "四季",
+      "wx": "",
+      "tempLo": null,
+      "tempHi": null,
+      "note": "",
+      "img": null,
+      "created": 1786955759541
     }
   ]
 }
