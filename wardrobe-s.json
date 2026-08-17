@@ -32,10 +32,10 @@
       "created": 1786944434303
     },
     {
-      "id": "it1786947082647",
+      "id": "it1786946593712",
       "kind": "cloth",
       "name": "白色",
-      "cat": "上衣",
+      "cat": "外套",
       "color": "",
       "mat": "",
       "season": "四季",
@@ -44,22 +44,7 @@
       "tempHi": null,
       "note": "",
       "img": null,
-      "created": 1786947082648
-    },
-    {
-      "id": "it1786947139143",
-      "kind": "jewel",
-      "name": "白色和田玉",
-      "cat": "手镯/手链",
-      "color": "",
-      "mat": "",
-      "season": "四季",
-      "wx": "",
-      "tempLo": null,
-      "tempHi": null,
-      "note": "",
-      "img": null,
-      "created": 1786947139143
+      "created": 1786946593712
     }
   ]
 }
